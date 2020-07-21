@@ -1,5 +1,5 @@
-<!-- ### Hi there, I'm Rizky 👋 
-<h2> Hi there, I'm Rizky <img src="https://em.wattpad.com/73f8268935578ffb9b5ab247bd41cc1c56b5c7a1/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f545668737967676f6b6f6a7731673d3d2d3732303534323735352e313539363235333236326133303634313936383131333636313730332e676966" width="50"></h2> -->
+<!-- ### Hi there, I'm Rizky 👋 -->
+<h2> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!--
 **lordacil/lordacil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,8 +27,9 @@ ___
 **About Me**
 
 - Age : 19y.o
-- Skills : Java and C++
+- Skills : Java,Kotlin,Dart and C++
 - School : Insitute Technology Telkom Purwokerto
 
 ___
 
+[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats)
