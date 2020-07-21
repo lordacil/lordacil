@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nimek](https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png)
-
+<!-- [nimek](https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png) -->
+<img src="https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png" width="50%">
 
 <center>
 <a href="https://fb.me/nolep.sh"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/rnugraha.id"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
