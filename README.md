@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there, I'm Rizky 👋 -->
+<h2> Hi there, I'm Rizky <img src="http://clipart-library.com/images/di9peogpT.gif" width="50"></h2>
 <!--
 **lordacil/lordacil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
