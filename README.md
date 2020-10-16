@@ -30,8 +30,7 @@ ___
 - Skills : Java,Kotlin,Dart and C++
 - School : Insitute Technology Telkom Purwokerto
 
+[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats)
+
 ___
-<center>
-[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats) </center>
-<center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats) </center>
