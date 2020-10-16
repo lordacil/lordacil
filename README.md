@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github stats](https://github-readme-stats.vercel.app/api?username=lordacil&show_icons=true)
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)
+
 <!-- [nimek](https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png) -->
 <img src="https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png" width="50%">
 
