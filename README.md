@@ -31,7 +31,7 @@ ___
 - School : Insitute Technology Telkom Purwokerto
 
 ___
-<img align="center"
-[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats) />
-<img align="center"
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats) />
+<center>
+[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats) </center>
+<center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats) </center>
