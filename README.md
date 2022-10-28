@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitewhite)
 ![Java](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+[![@lordacil's Holopin board](https://holopin.me/lordacil)](https://holopin.io/@lordacil)
+
 ### :dart: Weekly Fuck The Code
 
 <!--START_SECTION:waka-->
