@@ -69,9 +69,8 @@ Java     41 mins         ███▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html>
-[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Lordacil's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordacil&show_icons=true&theme=transparent)
 ___
 
 <div align="center">
